@@ -1,6 +1,6 @@
 <?php namespace Bickart\Plivo\Api;
 /**
- * Copyright 2015 Ticomix, LLC
+ * Copyright 2015 Jeff Bickart
  *
  * User: @bickart
  * Date: 09/14/2015
