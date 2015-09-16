@@ -38,7 +38,7 @@ $contact = $plivo->message()->send("YOUR PLIVO PHONE NUMBER", "RECIPIENT PHONE N
 
 If you see something not planned, that you want, make an [issue](https://github.com/bickart/plivo-php/issues) and there's a good chance I will add it.
 
-:white_medium_small_square: Account
+:wavy_dash: Account
 
 :white_medium_small_square: Application
 
