@@ -57,3 +57,6 @@ If you see something not planned, that you want, make an [issue](https://github.
 :white_medium_small_square: Pricing
 
 :white_medium_small_square: Recording
+
+## API
+[API DOCS] (https://www.plivo.com/docs/api/)
