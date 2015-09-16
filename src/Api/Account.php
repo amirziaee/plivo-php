@@ -10,7 +10,7 @@
 
 use Bickart\Plivo\Exceptions\PlivoException;
 
-class Accounts extends Api
+class Account extends Api
 {
     /**
      * Get Details of All Messages

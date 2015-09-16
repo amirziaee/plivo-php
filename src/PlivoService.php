@@ -8,7 +8,7 @@ use Bickart\Plivo\Http\Client;
  * Class PlivoService
  * @package Bickart\Plivo
  *
- * @method \Bickart\Plivo\Api\Accounts accounts()
+ * @method \Bickart\Plivo\Api\Account account()
  * @method \Bickart\Plivo\Api\Application application()
  * @method \Bickart\Plivo\Api\Call call()
  * @method \Bickart\Plivo\Api\Conference conference()
